@@ -79,7 +79,7 @@ Halo bro! 👋 Ini adalah aplikasi SPAM OTP keren dengan GUI yang kece pake Pyth
 [![Telegram](https://img.shields.io/badge/🛒_BELI_FULL_OTP-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yoshcc)
 
 Fitur versi full:
-- ✅ 100+ layanan OTP terupdate
+- ✅ 10+ layanan OTP terupdate
 - 🔄 Auto update config otomatis
 - 📊 Statistik pengiriman real-time
 - 🛡️ Support proxy & multi-threading

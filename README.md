@@ -1,4 +1,6 @@
 # 📱🔥 SPAM OTP GUI - README 🔥📱
+![Spam OTP Banner](https://github.com/YoshCasaster/store_db/blob/main/Screenshot%202025-04-19%20122754.png?raw=true)  
+
 
 Halo bro! 👋 Ini adalah aplikasi SPAM OTP keren dengan GUI yang kece pake Python 🐍. Buat yang mau ngirim OTP ke nomor tertentu (buat testing doang ya, jangan disalahgunakan 😉).
 
@@ -34,7 +36,18 @@ Halo bro! 👋 Ini adalah aplikasi SPAM OTP keren dengan GUI yang kece pake Pyth
 ## 💻 Teknis
 - Pake library `tkinter` buat GUI-nya  
 - Ada multithreading biar ga lag  
-- Ambil config dari GitHub biar fleksibel  
+- Ambil config dari GitHub biar fleksibel
+
+## 💰 Mau Versi Full OTP?
+
+[![Telegram](https://img.shields.io/badge/🛒_BELI_FULL_OTP-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yoshcc)
+
+Fitur versi full:
+- ✅ 10+ layanan OTP terupdate
+- 🔄 Auto update config otomatis
+- 📊 Statistik pengiriman real-time
+- 🛡️ Support proxy & multi-threading
+- 🔥 Fitur-fitur premium lainnya
 
 ## 🔧 Contoh Config OTP (otp_config.json)
 ```json
@@ -74,16 +87,7 @@ Halo bro! 👋 Ini adalah aplikasi SPAM OTP keren dengan GUI yang kece pake Pyth
     }
 ]
 ```
-## 💰 Mau Versi Full OTP?
 
-[![Telegram](https://img.shields.io/badge/🛒_BELI_FULL_OTP-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yoshcc)
-
-Fitur versi full:
-- ✅ 10+ layanan OTP terupdate
-- 🔄 Auto update config otomatis
-- 📊 Statistik pengiriman real-time
-- 🛡️ Support proxy & multi-threading
-- 🔥 Fitur-fitur premium lainnya
 
 ### Penjelasan Config:
 - `name` : Nama layanan yang mau di-spam (e.g. Oyo, Volta)
